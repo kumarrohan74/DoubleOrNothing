@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DoubleOrNothing/static/css/main.d75e147d.chunk.css",
+    "main.js": "/DoubleOrNothing/static/js/main.8fc550f8.chunk.js",
+    "main.js.map": "/DoubleOrNothing/static/js/main.8fc550f8.chunk.js.map",
+    "runtime-main.js": "/DoubleOrNothing/static/js/runtime-main.bb285072.js",
+    "runtime-main.js.map": "/DoubleOrNothing/static/js/runtime-main.bb285072.js.map",
+    "static/js/2.5f716a27.chunk.js": "/DoubleOrNothing/static/js/2.5f716a27.chunk.js",
+    "static/js/2.5f716a27.chunk.js.map": "/DoubleOrNothing/static/js/2.5f716a27.chunk.js.map",
+    "static/js/3.a698623a.chunk.js": "/DoubleOrNothing/static/js/3.a698623a.chunk.js",
+    "static/js/3.a698623a.chunk.js.map": "/DoubleOrNothing/static/js/3.a698623a.chunk.js.map",
+    "index.html": "/DoubleOrNothing/index.html",
+    "static/css/main.d75e147d.chunk.css.map": "/DoubleOrNothing/static/css/main.d75e147d.chunk.css.map",
+    "static/js/2.5f716a27.chunk.js.LICENSE.txt": "/DoubleOrNothing/static/js/2.5f716a27.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/DoubleOrNothing/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb285072.js",
+    "static/js/2.5f716a27.chunk.js",
+    "static/css/main.d75e147d.chunk.css",
+    "static/js/main.8fc550f8.chunk.js"
+  ]
+}
