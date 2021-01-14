@@ -162,7 +162,7 @@ class App extends React.Component {
             </div>
             <div class="cal">
             {(item.Bet == this.state.randomNumber) ? item.Win = item.Win + 2*(parseInt(item.Price)) : item.Win = item.Win }
-            {(item.Bet == this.state.randomNumber) ? item.Win = item.Win - parseInt(item.Price)  : item.Win = item.Win }
+            
             {(item.Bet == this.state.randomNumber) ? item.Fate = "Win" : item.Fate = "Loss" }
             {final_array.push(item)}
 
